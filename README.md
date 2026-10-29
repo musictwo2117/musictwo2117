@@ -13,10 +13,11 @@ parsers, calculators, webhooks and syncs that run quietly in the background so p
 
 ## 🧪 Public projects
 
-- [**MiwTown**](https://github.com/musictwo2117/MiwTown): a cozy 3D pastel town and cat room that shows what your Claude Code agents are doing
-- [**swaglab-automation**](https://github.com/musictwo2117/swaglab-automation): web UI test suite in Robot Framework
-- [**appiumtest-automation**](https://github.com/musictwo2117/appiumtest-automation): mobile app tests with Appium and Python
-- [**PM25project**](https://github.com/musictwo2117/PM25project): senior project analysing PM2.5 air-quality data
+* [MiwTown](https://github.com/musictwo2117/MiwTown): a cozy 3D pastel town and cat room that shows what your Claude Code agents are doing
+* [formula-compiler](https://github.com/musictwo2117/formula-compiler): compiles Airtable, Google Sheets and Excel formulas to JavaScript and PostgreSQL
+* [swaglab-automation](https://github.com/musictwo2117/swaglab-automation): web UI test suite in Robot Framework
+* [appiumtest-automation](https://github.com/musictwo2117/appiumtest-automation): mobile app tests with Appium and Python
+* [PM25project](https://github.com/musictwo2117/PM25project): senior project analysing PM2.5 air-quality data
 
 ## 🛠️ Tech stack
 
