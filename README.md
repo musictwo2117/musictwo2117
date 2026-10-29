@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mu 👋</h1>
+<h1 align="center">Hi, I'm Miw 👋</h1>
 <p align="center"><b>QA Automation & Integration Engineer</b> · Bangkok, Thailand</p>
 
 I build test automation for web and mobile apps, and the integrations that tie business tools together:
