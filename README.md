@@ -6,10 +6,12 @@ parsers, calculators, webhooks and syncs that run quietly in the background so p
 
 ## 🔧 What I work on
 
-- **Test automation:** end-to-end tests for web (Robot Framework, Selenium) and mobile (Appium), wired into CI
-- **Workflow automation:** Google Apps Script services that parse documents, run calculations and send notifications
-- **Integrations:** Airtable, Meta Lead Ads webhooks, Google Sheets and Cloud Run APIs talking to each other reliably
-- **Small web apps:** forms and dashboards on Cloudflare Pages and Workers
+* Test automation: end-to-end tests for web (Robot Framework, Selenium) and mobile (Appium), wired into CI
+* Workflow automation: Google Apps Script services that parse documents, run calculations and send notifications
+* Integrations: Airtable, Meta Lead Ads webhooks, Google Sheets and Cloud Run APIs talking to each other reliably
+* Developer tools: a formula compiler that turns Airtable, Sheets and Excel formulas into JavaScript and SQL
+* AI agent tooling: Claude Code hooks and a live 3D view (three.js) of what the agents are doing
+* Small web apps: forms and dashboards on Cloudflare Pages and Workers
 
 ## 🧪 Public projects
 
