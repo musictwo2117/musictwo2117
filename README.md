@@ -21,6 +21,14 @@ parsers, calculators, webhooks and syncs that run quietly in the background so p
   <a href="https://github.com/musictwo2117/MiwTown"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown/main/docs/game-cafe.jpg" width="49%" alt="Cheesecake Rush: a pastel café on a floating island with friends at tables"></a>
 </p>
 
+## 🍣 Featured: SushiRush
+
+<p>
+  <img src="docs/sushirush-bar.png" width="32%" alt="SushiRush: the 3D sushi bar">
+  <img src="docs/sushirush-slice.png" width="32%" alt="SushiRush: slicing salmon on the cutting board">
+  <img src="docs/sushirush-chefs.png" width="32%" alt="SushiRush: three chefs tasting your sushi">
+</p>
+
 ## 🧪 Public projects
 
 * [MiwTown](https://github.com/musictwo2117/MiwTown): a cozy 3D pastel town and cat room that shows what your Claude Code agents are doing live, plus Cheesecake Rush, a café game you can play in the browser
