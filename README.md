@@ -14,11 +14,18 @@ parsers, calculators, webhooks and syncs that run quietly in the background so p
 * AI agent tooling: Claude Code hooks and a live 3D view (three.js) of what the agents are doing, with characters sculpted in Blender
 * Small web apps: forms and dashboards on Cloudflare Pages and Workers
 
-## 🥨 Featured: Miw's Town
+## 🥨 Featured: MiwTown-agent
 
 <p>
-  <a href="https://github.com/musictwo2117/MiwTown-agent"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown-agent/main/docs/town.jpg" width="49%" alt="Miw's Town: a floating pastel island with a rainbow road, themed buildings and agents walking around"></a>
-  <a href="https://github.com/musictwo2117/MiwTown-CheesecakeRush"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown-CheesecakeRush/main/docs/game-cafe.jpg" width="49%" alt="Cheesecake Rush: a pastel café on a floating island with friends at tables"></a>
+  <a href="https://github.com/musictwo2117/MiwTown-agent"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown-agent/main/docs/town.jpg" width="49%" alt="MiwTown-agent: a floating pastel island with a rainbow road, themed buildings and agents walking around"></a>
+  <a href="https://github.com/musictwo2117/MiwTown-agent"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown-agent/main/docs/room.jpg" width="49%" alt="MiwTown-agent: the Cat Room, a cozy floating home with agents resting inside"></a>
+</p>
+
+## 🍓 Featured: Cheesecake Rush
+
+<p>
+  <a href="https://github.com/musictwo2117/MiwTown-CheesecakeRush"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown-CheesecakeRush/main/docs/game-cafe.jpg" width="49%" alt="Cheesecake Rush: a pastel café with friends at tables"></a>
+  <a href="https://github.com/musictwo2117/MiwTown-CheesecakeRush"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown-CheesecakeRush/main/docs/game-kitchen.jpg" width="49%" alt="Cheesecake Rush: kitchen steps for crushing, baking and frying desserts"></a>
 </p>
 
 ## 🍣 Featured: SushiRush
