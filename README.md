@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Miw 👋</h1>
-<p align="center"><b>QA Automation & Integration Engineer</b> · Bangkok, Thailand</p>
+<p align="center"><b>QA Automation Engineer · Integration & Game Dev Tinkerer · Bangkok, Thailand
+
+</p>
 
 I build test automation for web and mobile apps, and the integrations that tie business tools together:
 parsers, calculators, webhooks and syncs that run quietly in the background so people don't have to copy data by hand.
