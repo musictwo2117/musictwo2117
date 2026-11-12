@@ -17,8 +17,8 @@ parsers, calculators, webhooks and syncs that run quietly in the background so p
 ## 🥨 Featured: Miw's Town
 
 <p>
-  <a href="https://github.com/musictwo2117/MiwTown"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown/main/docs/town.jpg" width="49%" alt="Miw's Town: a floating pastel island with a rainbow road, themed buildings and agents walking around"></a>
-  <a href="https://github.com/musictwo2117/MiwTown"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown/main/docs/game-cafe.jpg" width="49%" alt="Cheesecake Rush: a pastel café on a floating island with friends at tables"></a>
+  <a href="https://github.com/musictwo2117/MiwTown-agent"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown-agent/main/docs/town.jpg" width="49%" alt="Miw's Town: a floating pastel island with a rainbow road, themed buildings and agents walking around"></a>
+  <a href="https://github.com/musictwo2117/MiwTown-CheesecakeRush"><img src="https://raw.githubusercontent.com/musictwo2117/MiwTown-CheesecakeRush/main/docs/game-cafe.jpg" width="49%" alt="Cheesecake Rush: a pastel café on a floating island with friends at tables"></a>
 </p>
 
 ## 🍣 Featured: SushiRush
@@ -31,7 +31,8 @@ parsers, calculators, webhooks and syncs that run quietly in the background so p
 
 ## 🧪 Public projects
 
-* [MiwTown](https://github.com/musictwo2117/MiwTown): a cozy 3D pastel town and cat room that shows what your Claude Code agents are doing live, plus Cheesecake Rush, a café game you can play in the browser
+* [MiwTown-agent](https://github.com/musictwo2117/MiwTown-agent): a cozy 3D pastel town and cat room that shows what your Claude Code agents are doing live
+* [MiwTown-CheesecakeRush](https://github.com/musictwo2117/MiwTown-CheesecakeRush): Cheesecake Rush, a pastel 3D café game with Cooking Mama-style baking, [playable in the browser](https://musictwo2117.github.io/MiwTown-CheesecakeRush/)
 * **SushiRush** (in development): a portrait 3D cartoon sushi-bar game for iOS and Android built in Unity. Make nigiri, maki and gunkan with taps, drags and swipes, then survive three picky chefs who taste your sushi at the end of every level
 * [formula-compiler](https://github.com/musictwo2117/formula-compiler): compiles Airtable, Google Sheets and Excel formulas to JavaScript and PostgreSQL
 * [swaglab-automation](https://github.com/musictwo2117/swaglab-automation): web UI test suite in Robot Framework
