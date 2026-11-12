@@ -10,6 +10,7 @@ parsers, calculators, webhooks and syncs that run quietly in the background so p
 * Workflow automation: Google Apps Script services that parse documents, run calculations and send notifications
 * Integrations: Airtable, Meta Lead Ads webhooks, Google Sheets and Cloud Run APIs talking to each other reliably
 * Developer tools: a formula compiler that turns Airtable, Sheets and Excel formulas into JavaScript and SQL
+* Game dev: SushiRush, a one-handed 3D sushi-bar mobile game in Unity (C#, URP)
 * AI agent tooling: Claude Code hooks and a live 3D view (three.js) of what the agents are doing, with characters sculpted in Blender
 * Small web apps: forms and dashboards on Cloudflare Pages and Workers
 
@@ -23,6 +24,7 @@ parsers, calculators, webhooks and syncs that run quietly in the background so p
 ## 🧪 Public projects
 
 * [MiwTown](https://github.com/musictwo2117/MiwTown): a cozy 3D pastel town and cat room that shows what your Claude Code agents are doing live, plus Cheesecake Rush, a café game you can play in the browser
+* **SushiRush** (in development): a portrait 3D cartoon sushi-bar game for iOS and Android built in Unity. Make nigiri, maki and gunkan with taps, drags and swipes, then survive three picky chefs who taste your sushi at the end of every level
 * [formula-compiler](https://github.com/musictwo2117/formula-compiler): compiles Airtable, Google Sheets and Excel formulas to JavaScript and PostgreSQL
 * [swaglab-automation](https://github.com/musictwo2117/swaglab-automation): web UI test suite in Robot Framework
 * [appiumtest-automation](https://github.com/musictwo2117/appiumtest-automation): mobile app tests with Appium and Python
@@ -47,6 +49,8 @@ parsers, calculators, webhooks and syncs that run quietly in the background so p
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![three.js](https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white)
 
